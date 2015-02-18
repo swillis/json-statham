@@ -10,7 +10,7 @@
                "Bottom":150,
                "Left":150
            },
-           "PreviewUrl":"https://s3.amazonaws.com/23prints-page-layouts-dev/TwoImagesPortrait@3x.png",
+           "PreviewUrl":"TwoImagesPortrait@3x.png",
            "IsActive":true,
            "Placeholders":[
               {
@@ -58,7 +58,7 @@
                "Bottom":150,
                "Left":150
            },
-           "PreviewUrl":"https://s3.amazonaws.com/23prints-page-layouts-dev/TwoImageswithtext-bottom@3x.png",
+           "PreviewUrl":"TwoImageswithtext-bottom@3x.png",
            "IsActive":true,
            "Placeholders":[
               {
@@ -70,7 +70,7 @@
                       },
                       "Size":{
                           "Width":875,
-                          "Height":1400
+                          "Height": 1530
                       }
                   },
                   "Kind":1,
@@ -86,7 +86,7 @@
                       },
                       "Size":{
                           "Width":875,
-                          "Height":1400
+                          "Height": 1530
                       }
                   },
                   "Kind":1,
@@ -98,80 +98,16 @@
                   "Frame":{
                       "Origin":{
                           "X":150,
-                          "Y":1600
+                          "Y":1730
                       },
                       "Size":{
                           "Width":1800,
-                          "Height":350
+                          "Height":215
                       }
                   },
                   "Kind":2,
                   "IsFixed":true,
-                  "Index":2
-              }
-           ],
-           "ParentId":"4b9f4ae0-d3f9-4529-902e-ea46d54c6095"
-       },
-       {
-           "Id":"ba9c32e2-4235-466f-af75-c13eddb37ee0",
-           "PageLayoutKind":1,
-           "PageSizeKind":1,
-           "Padding":{
-               "Top":150,
-               "Right":150,
-               "Bottom":150,
-               "Left":150
-           },
-           "PreviewUrl":"https://s3.amazonaws.com/23prints-page-layouts-dev/TwoImageswithtext-top@3x.png",
-           "IsActive":true,
-           "Placeholders":[
-              {
-                  "Id":"897a7ed0-a45d-4c64-89b4-9eed19ad24f0",
-                  "Frame":{
-                      "Origin":{
-                          "X":150,
-                          "Y":550
-                      },
-                      "Size":{
-                          "Width":875,
-                          "Height":1400
-                      }
-                  },
-                  "Kind":1,
-                  "IsFixed":false,
                   "Index":0
-              },
-              {
-                  "Id":"1e21b83d-f288-48ef-9496-3ec1cdf24bdf",
-                  "Frame":{
-                      "Origin":{
-                          "X":1075,
-                          "Y":550
-                      },
-                      "Size":{
-                          "Width":875,
-                          "Height":1400
-                      }
-                  },
-                  "Kind":1,
-                  "IsFixed":false,
-                  "Index":1
-              },
-              {
-                  "Id":"3b462a69-525f-4da1-9f98-55a1f2720e26",
-                  "Frame":{
-                      "Origin":{
-                          "X":150,
-                          "Y":150
-                      },
-                      "Size":{
-                          "Width":1800,
-                          "Height":350
-                      }
-                  },
-                  "Kind":2,
-                  "IsFixed":true,
-                  "Index":2
               }
            ],
            "ParentId":"4b9f4ae0-d3f9-4529-902e-ea46d54c6095"
