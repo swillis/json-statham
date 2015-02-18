@@ -10,7 +10,7 @@
                "Bottom":150,
                "Left":150
            },
-           "PreviewUrl":"OneTallTwoSmall-2@3x.png",
+           "PreviewUrl":"https://s3.amazonaws.com/23prints-page-layouts-dev/OneTallTwoSmall-2@3x.png",
            "IsActive":true,
            "Placeholders":[
               {
@@ -74,7 +74,7 @@
                "Bottom":150,
                "Left":150
            },
-           "PreviewUrl":"OneTallTwoSmall-text-bottom-2@3x.png",
+           "PreviewUrl":"https://s3.amazonaws.com/23prints-page-layouts-dev/OneTallTwoSmall-text-bottom-2@3x.png",
            "IsActive":true,
            "Placeholders":[
               {

@@ -10,7 +10,7 @@
                 "Bottom": 150,
                 "Left": 150
             },
-            "PreviewUrl": "SingleImageWithBorder@3x.png",
+            "PreviewUrl": "https://s3.amazonaws.com/23prints-page-layouts-dev/SingleImageWithBorder@3x.png",
             "IsActive": true,
             "Placeholders": [
                 {
@@ -42,7 +42,7 @@
                 "Bottom": 150,
                 "Left": 150
             },
-            "PreviewUrl": "LargeImagewithTextBottom@3x.png",
+            "PreviewUrl": "https://s3.amazonaws.com/23prints-page-layouts-dev/LargeImagewithTextBottom@3x.png",
             "IsActive": true,
             "Placeholders": [
                 {

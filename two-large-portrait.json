@@ -10,7 +10,7 @@
                "Bottom":150,
                "Left":150
            },
-           "PreviewUrl":"TwoImagesPortrait@3x.png",
+           "PreviewUrl":"https://s3.amazonaws.com/23prints-page-layouts-dev/TwoImagesPortrait@3x.png",
            "IsActive":true,
            "Placeholders":[
               {
@@ -58,7 +58,7 @@
                "Bottom":150,
                "Left":150
            },
-           "PreviewUrl":"TwoImageswithtext-bottom@3x.png",
+           "PreviewUrl":"https://s3.amazonaws.com/23prints-page-layouts-dev/TwoImageswithtext-bottom@3x.png",
            "IsActive":true,
            "Placeholders":[
               {
