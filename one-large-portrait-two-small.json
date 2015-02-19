@@ -86,7 +86,7 @@
                       },
                       "Size":{
                           "Width":875,
-                          "Height": 1530
+                          "Height":1400
                       }
                   },
                   "Kind":1,
@@ -102,7 +102,7 @@
                       },
                       "Size":{
                           "Width":875,
-                          "Height":740
+                          "Height":675
                       }
                   },
                   "Kind":1,
@@ -114,11 +114,11 @@
                   "Frame":{
                       "Origin":{
                           "X":1075,
-                          "Y":940
+                          "Y":875
                       },
                       "Size":{
                           "Width":875,
-                          "Height":740
+                          "Height":675
                       }
                   },
                   "Kind":1,
@@ -130,16 +130,96 @@
                   "Frame":{
                       "Origin":{
                           "X":150,
-                          "Y":1730
+                          "Y":1600
                       },
                       "Size":{
-                          "Width":1006,
-                          "Height":215
+                          "Width":1800,
+                          "Height":350
                       }
                   },
                   "Kind":2,
                   "IsFixed":true,
+                  "Index":3
+              }
+           ],
+           "ParentId":"3b5ab11e-17b6-4b22-b100-7cb991f95560"
+       },
+       {
+           "Id":"0aaae3f8-9be1-4573-b533-5f8942da039d",
+           "PageLayoutKind":1,
+           "PageSizeKind":1,
+           "Padding":{
+               "Top":150,
+               "Right":150,
+               "Bottom":150,
+               "Left":150
+           },
+           "PreviewUrl":"https://s3.amazonaws.com/23prints-page-layouts-dev/OneTallTwoSmall-text-top@3x.png",
+           "IsActive":true,
+           "Placeholders":[
+              {
+                  "Id":"d129e39c-9581-4100-8a36-d4cb3e36bd74",
+                  "Frame":{
+                      "Origin":{
+                          "X":150,
+                          "Y":550
+                      },
+                      "Size":{
+                          "Width":875,
+                          "Height":1400
+                      }
+                  },
+                  "Kind":1,
+                  "IsFixed":false,
                   "Index":0
+              },
+              {
+                  "Id":"51598b18-2873-41d1-97c2-9a94b86d3e86",
+                  "Frame":{
+                      "Origin":{
+                          "X":1075,
+                          "Y":550
+                      },
+                      "Size":{
+                          "Width":875,
+                          "Height":675
+                      }
+                  },
+                  "Kind":1,
+                  "IsFixed":false,
+                  "Index":1
+              },
+              {
+                  "Id":"c746d638-e266-4344-a287-3f473da08c5a",
+                  "Frame":{
+                      "Origin":{
+                          "X":1075,
+                          "Y":1275
+                      },
+                      "Size":{
+                          "Width":875,
+                          "Height":675
+                      }
+                  },
+                  "Kind":1,
+                  "IsFixed":false,
+                  "Index":2
+              },
+              {
+                  "Id":"9400bf5a-16f3-4bc6-a71e-779aef1628fd",
+                  "Frame":{
+                      "Origin":{
+                          "X":150,
+                          "Y":150
+                      },
+                      "Size":{
+                          "Width":1800,
+                          "Height":350
+                      }
+                  },
+                  "Kind":2,
+                  "IsFixed":true,
+                  "Index":3
               }
            ],
            "ParentId":"3b5ab11e-17b6-4b22-b100-7cb991f95560"

@@ -70,7 +70,7 @@
                       },
                       "Size":{
                           "Width":1800,
-                          "Height":740
+                          "Height":675
                       }
                   },
                   "Kind":1,
@@ -82,11 +82,11 @@
                   "Frame":{
                       "Origin":{
                           "X":150,
-                          "Y":940
+                          "Y":875
                       },
                       "Size":{
                           "Width":1800,
-                          "Height":740
+                          "Height":675
                       }
                   },
                   "Kind":1,
@@ -98,16 +98,80 @@
                   "Frame":{
                       "Origin":{
                           "X":150,
-                          "Y":1730
+                          "Y":1600
                       },
                       "Size":{
-                          "Width":1006,
-                          "Height":215
+                          "Width":1800,
+                          "Height":350
                       }
                   },
                   "Kind":2,
                   "IsFixed":true,
+                  "Index":2
+              }
+           ],
+           "ParentId":"eee08ca0-a183-446c-b01c-5acdde65a56f"
+       },
+       {
+           "Id":"1e9cfa69-52d2-4612-b2a3-ab550a447ce6",
+           "PageLayoutKind":1,
+           "PageSizeKind":1,
+           "Padding":{
+               "Top":150,
+               "Right":150,
+               "Bottom":150,
+               "Left":150
+           },
+           "PreviewUrl":"https://s3.amazonaws.com/23prints-page-layouts-dev/TwoImageslandscapeWithText-top@3x.png",
+           "IsActive":true,
+           "Placeholders":[
+              {
+                  "Id":"5670c75a-d660-4cb9-a840-0f63c5f0a329",
+                  "Frame":{
+                      "Origin":{
+                          "X":150,
+                          "Y":550
+                      },
+                      "Size":{
+                          "Width":1800,
+                          "Height":675
+                      }
+                  },
+                  "Kind":1,
+                  "IsFixed":false,
                   "Index":0
+              },
+              {
+                  "Id":"48b30fd6-c402-4e60-a450-d688f77b309b",
+                  "Frame":{
+                      "Origin":{
+                          "X":150,
+                          "Y":1275
+                      },
+                      "Size":{
+                          "Width":1800,
+                          "Height":675
+                      }
+                  },
+                  "Kind":1,
+                  "IsFixed":false,
+                  "Index":1
+              },
+              {
+                  "Id":"b3da7114-d621-4582-aed6-219770be5fd6",
+                  "Frame":{
+                      "Origin":{
+                          "X":150,
+                          "Y":150
+                      },
+                      "Size":{
+                          "Width":1800,
+                          "Height":350
+                      }
+                  },
+                  "Kind":2,
+                  "IsFixed":true,
+                  "Index":2
               }
            ],
            "ParentId":"eee08ca0-a183-446c-b01c-5acdde65a56f"

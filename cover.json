@@ -1,132 +1,148 @@
 ﻿{
     "PageLayouts": [
-       {
-           "PageLayoutKind":2,
-           "Id":"14faf390-7a02-4e07-9fd0-55089abdb9cb",
-           "PageSizeKind":1,
-           "Padding":{
-               "Top":150,
-               "Right":150,
-               "Bottom":150,
-               "Left":150
-           },
-           "PreviewUrl":"",
-           "IsActive":true,
-           "Placeholders":[
-              {
-                  "Id":"aeeb3c0b-60f4-40fb-8b54-5584f3cc4ff1",
-                  "Frame":{
-                      "Origin":{
-                          "X":0,
-                          "Y":0
-                      },
-                      "Size":{
-                          "Width":2100,
-                          "Height":2100
-                      }
-                  },
-                  "Kind":1,
-                  "IsFixed":false,
-                  "Index":0
-              }
-           ],
-           "ParentId":null
-       },
-       {
-           "PageLayoutKind":2,
-           "Id":"3fc1952e-22f2-4038-b855-422bef80bcfe",
-           "PageSizeKind":1,
-           "Padding":{
-               "Top":150,
-               "Right":150,
-               "Bottom":150,
-               "Left":150
-           },
-           "PreviewUrl":"",
-           "IsActive":true,
-           "Placeholders":[
-              {
-                  "Id":"ade8306d-7ad9-441f-a30b-35732e78e14d",
-                  "Frame":{
-                      "Origin":{
-                          "X":0,
-                          "Y":0
-                      },
-                      "Size":{
-                          "Width":2100,
-                          "Height":2100
-                      }
-                  },
-                  "Kind":1,
-                  "IsFixed":false,
-                  "Index":0
-              },
-              {
-                  "Id":"5536cade-bd4e-4a79-a660-3f21884f6a3a",
-                  "Frame":{
-                      "Origin":{
-                          "X":942,
-                          "Y":1470
-                      },
-                      "Size":{
-                          "Width":1007,
-                          "Height":480
-                      }
-                  },
-                  "Kind":2,
-                  "IsFixed":true,
-                  "Index":0
-              }
-           ],
-           "ParentId":"14faf390-7a02-4e07-9fd0-55089abdb9cb"
-       },
-       {
-           "PageLayoutKind":2,
-           "Id":"3cc9a9d6-9d8c-46d3-87da-b4c4918f83b2",
-           "PageSizeKind":1,
-           "Padding":{
-               "Top":150,
-               "Right":150,
-               "Bottom":150,
-               "Left":150
-           },
-           "PreviewUrl":"",
-           "IsActive":true,
-           "Placeholders":[
-              {
-                  "Id":"d5c82a7b-6a73-485f-8cb3-e72f92ee9d62",
-                  "Frame":{
-                      "Origin":{
-                          "X":0,
-                          "Y":0
-                      },
-                      "Size":{
-                          "Width":2100,
-                          "Height":2100
-                      }
-                  },
-                  "Kind":1,
-                  "IsFixed":false,
-                  "Index":0
-              },
-              {
-                  "Id":"f1b4c8c5-7795-4fb9-9b15-9d371042bc2a",
-                  "Frame":{
-                      "Origin":{
-                          "X":942,
-                          "Y":1470
-                      },
-                      "Size":{
-                          "Width":1007,
-                          "Height":480
-                      }
-                  },
-                  "Kind":2,
-                  "IsFixed":true,
-                  "Index":0
-              }
-           ],
-           "ParentId":"14faf390-7a02-4e07-9fd0-55089abdb9cb"
-       }
+        {
+            "PageLayoutKind": 2,
+            "Id": "14faf390-7a02-4e07-9fd0-55089abdb9cb",
+            "PageSizeKind": 1,
+            "Padding": {
+                "Top": 150,
+                "Right": 150,
+                "Bottom": 150,
+                "Left": 150
+            },
+            "PreviewUrl": "",
+            "IsActive": true,
+            "Placeholders": [
+                {
+                    "Id": "aeeb3c0b-60f4-40fb-8b54-5584f3cc4ff1",
+                    "Frame": {
+                        "Origin": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Size": {
+                            "Width": 2100,
+                            "Height": 2100
+                        }
+                    },
+                    "Kind": 1,
+                    "IsFixed": false,
+                    "Index": 0
+                }
+            ],
+            "ParentId": null
+        },
+        {
+            "PageLayoutKind": 2,
+            "Id": "3fc1952e-22f2-4038-b855-422bef80bcfe",
+            "PageSizeKind": 1,
+            "Padding": {
+                "Top": 150,
+                "Right": 150,
+                "Bottom": 150,
+                "Left": 150
+            },
+            "PreviewUrl": "",
+            "IsActive": true,
+            "Placeholders": [
+                {
+                    "Id": "ade8306d-7ad9-441f-a30b-35732e78e14d",
+                    "Frame": {
+                        "Origin": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Size": {
+                            "Width": 2100,
+                            "Height": 2100
+                        }
+                    },
+                    "Kind": 1,
+                    "IsFixed": false,
+                    "Index": 0
+                },
+                {
+                    "Id": "5536cade-bd4e-4a79-a660-3f21884f6a3a",
+                    "Frame": {
+                        "Origin": {
+                            "X": 900,
+                            "Y": 1600
+                        },
+                        "Size": {
+                            "Width": 1050,
+                            "Height": 350
+                        }
+                    },
+                    "Kind": 2,
+                    "IsFixed": true,
+                    "Index": 1,
+                    "DefaultText": {
+                        "TextColor": -8355712,
+                        "TextAlignment": 1,
+                        "FontKind": 3
+                    },
+                    "BackgroundColor" : -1,
+                    "BorderWidth" :  5.0,
+                    "BorderColor" :  -16777216
+                }
+            ],
+            "ParentId": "14faf390-7a02-4e07-9fd0-55089abdb9cb"
+        },
+        {
+            "PageLayoutKind": 2,
+            "Id": "3cc9a9d6-9d8c-46d3-87da-b4c4918f83b2",
+            "PageSizeKind": 1,
+            "Padding": {
+                "Top": 150,
+                "Right": 150,
+                "Bottom": 150,
+                "Left": 150
+            },
+            "PreviewUrl": "",
+            "IsActive": true,
+            "Placeholders": [
+                {
+                    "Id": "d5c82a7b-6a73-485f-8cb3-e72f92ee9d62",
+                    "Frame": {
+                        "Origin": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Size": {
+                            "Width": 2100,
+                            "Height": 2100
+                        }
+                    },
+                    "Kind": 1,
+                    "IsFixed": false,
+                    "Index": 0
+                },
+                {
+                    "Id": "f1b4c8c5-7795-4fb9-9b15-9d371042bc2a",
+                    "Frame": {
+                        "Origin": {
+                            "X": 900,
+                            "Y": 1600
+                        },
+                        "Size": {
+                            "Width": 1050,
+                            "Height": 350
+                        }
+                    },
+                    "Kind": 2,
+                    "IsFixed": true,
+                    "Index": 1,
+                    "DefaultText": {
+                        "TextColor": -8355712,
+                        "TextAlignment": 1,
+                        "FontKind": 3
+                    },
+                    "BackgroundColor" : -1,
+                    "BorderWidth" :  5.0,
+                    "BorderColor" :  -16777216
+                }
+            ],
+            "ParentId": "14faf390-7a02-4e07-9fd0-55089abdb9cb"
+        }
     ]
 }
