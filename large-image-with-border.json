@@ -1,6 +1,7 @@
 ﻿{
     "PageLayouts": [
         {
+            "Index": 0,
             "Id": "9156b564-521f-4d4c-9085-f01755593be1",
             "PageLayoutKind": 1,
             "PageSizeKind": 1,
@@ -33,6 +34,7 @@
             "ParentId": null
         },
         {
+            "Index": 0,
             "Id": "3fd1266b-b06b-4224-adf1-7d7abf819c5e",
             "PageLayoutKind": 1,
             "PageSizeKind": 1,
@@ -75,7 +77,7 @@
                     },
                     "Kind": 2,
                     "IsFixed": true,
-                    "Index": 0
+                    "Index": 1
                 }
             ],
             "ParentId": "9156b564-521f-4d4c-9085-f01755593be1"

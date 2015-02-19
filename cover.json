@@ -75,7 +75,15 @@
                   },
                   "Kind":2,
                   "IsFixed":true,
-                  "Index":0
+                  "Index":1,
+                  "DefaultText": {
+                      "TextColor": -8355712,
+                      "TextAlignment": 1,
+                      "FontKind": 3
+                  },
+                  "BackgroundColor" : -1,
+                  "BorderWidth" :  5.0,
+                  "BorderColor" :  -16777216
               }
            ],
            "ParentId":"14faf390-7a02-4e07-9fd0-55089abdb9cb"
@@ -123,7 +131,15 @@
                   },
                   "Kind":2,
                   "IsFixed":true,
-                  "Index":0
+                  "Index": 1,
+                  "DefaultText": {
+                      "TextColor": -8355712,
+                      "TextAlignment": 1,
+                      "FontKind": 3
+                  },
+                  "BackgroundColor" : -1,
+                  "BorderWidth" :  5.0,
+                  "BorderColor" :  -16777216
               }
            ],
            "ParentId":"14faf390-7a02-4e07-9fd0-55089abdb9cb"
