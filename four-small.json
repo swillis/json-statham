@@ -10,7 +10,7 @@
                "Bottom":150,
                "Left":150
            },
-           "PreviewUrl": "https://s3.amazonaws.com/23prints-page-layouts-dev/FourImagesNoText@3x.png",
+           "PreviewUrl":"https://s3.amazonaws.com/23prints-page-layouts-dev/FourImagesNoText@3x.png",
            "IsActive":true,
            "Placeholders":[
               {
@@ -102,7 +102,7 @@
                       },
                       "Size":{
                           "Width":875,
-                          "Height":675
+                          "Height":740
                       }
                   },
                   "Kind":1,
@@ -114,11 +114,11 @@
                   "Frame":{
                       "Origin":{
                           "X":150,
-                          "Y":875
+                          "Y":940
                       },
                       "Size":{
                           "Width":875,
-                          "Height":675
+                          "Height":740
                       }
                   },
                   "Kind":1,
@@ -134,7 +134,7 @@
                       },
                       "Size":{
                           "Width":875,
-                          "Height":675
+                          "Height":740
                       }
                   },
                   "Kind":1,
@@ -146,11 +146,11 @@
                   "Frame":{
                       "Origin":{
                           "X":1075,
-                          "Y":875
+                          "Y":940
                       },
                       "Size":{
                           "Width":875,
-                          "Height":675
+                          "Height":740
                       }
                   },
                   "Kind":1,
@@ -162,112 +162,16 @@
                   "Frame":{
                       "Origin":{
                           "X":150,
-                          "Y":1600
+                          "Y":1730
                       },
                       "Size":{
-                          "Width":1800,
-                          "Height":350
+                          "Width":1006,
+                          "Height":220
                       }
                   },
                   "Kind":2,
                   "IsFixed":true,
-                  "Index":4
-              }
-           ],
-           "ParentId":"6e9b011f-b4e1-4ca0-af3d-aa2940b9abdc"
-       },
-       {
-           "Id":"31ca33b0-6dcb-4b09-9367-6383bd933718",
-           "PageLayoutKind":1,
-           "PageSizeKind":1,
-           "Padding":{
-               "Top":150,
-               "Right":150,
-               "Bottom":150,
-               "Left":150
-           },
-           "PreviewUrl":"https://s3.amazonaws.com/23prints-page-layouts-dev/FourImagesWithTextTop@3x.png",
-           "IsActive":true,
-           "Placeholders":[
-              {
-                  "Id":"e97b59bc-ee40-4ca6-a78b-cf3561126978",
-                  "Frame":{
-                      "Origin":{
-                          "X":150,
-                          "Y":550
-                      },
-                      "Size":{
-                          "Width":875,
-                          "Height":675
-                      }
-                  },
-                  "Kind":1,
-                  "IsFixed":false,
                   "Index":0
-              },
-              {
-                  "Id":"b28ce12f-6348-44ad-bd63-12c85a23c51a",
-                  "Frame":{
-                      "Origin":{
-                          "X":150,
-                          "Y":1275
-                      },
-                      "Size":{
-                          "Width":875,
-                          "Height":675
-                      }
-                  },
-                  "Kind":1,
-                  "IsFixed":false,
-                  "Index":1
-              },
-              {
-                  "Id":"6d07e8dd-847a-4356-9aa1-9907b2907760",
-                  "Frame":{
-                      "Origin":{
-                          "X":1075,
-                          "Y":550
-                      },
-                      "Size":{
-                          "Width":875,
-                          "Height":675
-                      }
-                  },
-                  "Kind":1,
-                  "IsFixed":false,
-                  "Index":2
-              },
-              {
-                  "Id":"033302df-fd07-48e0-9118-4c511bf58d81",
-                  "Frame":{
-                      "Origin":{
-                          "X":1075,
-                          "Y":1275
-                      },
-                      "Size":{
-                          "Width":875,
-                          "Height":675
-                      }
-                  },
-                  "Kind":1,
-                  "IsFixed":false,
-                  "Index":3
-              },
-              {
-                  "Id":"423d9a56-3bc3-449d-8dc9-245ef6974d40",
-                  "Frame":{
-                      "Origin":{
-                          "X":150,
-                          "Y":150
-                      },
-                      "Size":{
-                          "Width":1800,
-                          "Height":350
-                      }
-                  },
-                  "Kind":2,
-                  "IsFixed":true,
-                  "Index":4
               }
            ],
            "ParentId":"6e9b011f-b4e1-4ca0-af3d-aa2940b9abdc"

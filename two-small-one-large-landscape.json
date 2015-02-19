@@ -86,7 +86,7 @@
                       },
                       "Size":{
                           "Width":875,
-                          "Height":675
+                          "Height":740
                       }
                   },
                   "Kind":1,
@@ -102,7 +102,7 @@
                       },
                       "Size":{
                           "Width":875,
-                          "Height":675
+                          "Height":740
                       }
                   },
                   "Kind":1,
@@ -114,11 +114,11 @@
                   "Frame":{
                       "Origin":{
                           "X":150,
-                          "Y":875
+                          "Y":940
                       },
                       "Size":{
                           "Width":1800,
-                          "Height":675
+                          "Height":740
                       }
                   },
                   "Kind":1,
@@ -130,96 +130,16 @@
                   "Frame":{
                       "Origin":{
                           "X":150,
-                          "Y":1600
+                          "Y":1730
                       },
                       "Size":{
                           "Width":1800,
-                          "Height":350
+                          "Height":215
                       }
                   },
                   "Kind":2,
                   "IsFixed":true,
-                  "Index":3
-              }
-           ],
-           "ParentId":"9603a2d7-9ef6-4e86-8875-932afd1577a1"
-       },
-       {
-           "Id":"9ad5e234-81c9-4190-b091-0446408d3b3e",
-           "PageLayoutKind":1,
-           "PageSizeKind":1,
-           "Padding":{
-               "Top":150,
-               "Right":150,
-               "Bottom":150,
-               "Left":150
-           },
-           "PreviewUrl":"https://s3.amazonaws.com/23prints-page-layouts-dev/TwoSmallOneLong-text-top@3x.png",
-           "IsActive":true,
-           "Placeholders":[
-              {
-                  "Id":"1e0c394f-48f9-4252-8679-169525b4f147",
-                  "Frame":{
-                      "Origin":{
-                          "X":150,
-                          "Y":550
-                      },
-                      "Size":{
-                          "Width":875,
-                          "Height":675
-                      }
-                  },
-                  "Kind":1,
-                  "IsFixed":false,
                   "Index":0
-              },
-              {
-                  "Id":"12316e8d-9d30-41b4-8f24-8a2ec780e51b",
-                  "Frame":{
-                      "Origin":{
-                          "X":1075,
-                          "Y":550
-                      },
-                      "Size":{
-                          "Width":875,
-                          "Height":675
-                      }
-                  },
-                  "Kind":1,
-                  "IsFixed":false,
-                  "Index":1
-              },
-              {
-                  "Id":"c05a3bcf-0341-4c82-a04c-f6163d301068",
-                  "Frame":{
-                      "Origin":{
-                          "X":150,
-                          "Y":1275
-                      },
-                      "Size":{
-                          "Width":1800,
-                          "Height":675
-                      }
-                  },
-                  "Kind":1,
-                  "IsFixed":false,
-                  "Index":2
-              },
-              {
-                  "Id":"533943c2-855e-41d8-a378-cad5daf4b3e0",
-                  "Frame":{
-                      "Origin":{
-                          "X":150,
-                          "Y":150
-                      },
-                      "Size":{
-                          "Width":1800,
-                          "Height":350
-                      }
-                  },
-                  "Kind":2,
-                  "IsFixed":true,
-                  "Index":3
               }
            ],
            "ParentId":"9603a2d7-9ef6-4e86-8875-932afd1577a1"

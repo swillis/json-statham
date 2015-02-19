@@ -54,7 +54,7 @@
                         },
                         "Size": {
                             "Width": 1800,
-                            "Height": 1400
+                            "Height": 1530
                         }
                     },
                     "Kind": 1,
@@ -66,64 +66,16 @@
                     "Frame": {
                         "Origin": {
                             "X": 150,
-                            "Y": 1600
+                            "Y": 1730
                         },
                         "Size": {
                             "Width": 1800,
-                            "Height": 350
+                            "Height": 215
                         }
                     },
                     "Kind": 2,
                     "IsFixed": true,
-                    "Index": 1
-                }
-            ],
-            "ParentId": "9156b564-521f-4d4c-9085-f01755593be1"
-        },
-        {
-            "Id": "5c8dff04-89b0-4d70-ab58-fe800bacf45c",
-            "PageLayoutKind": 1,
-            "PageSizeKind": 1,
-            "Padding": {
-                "Top": 150,
-                "Right": 150,
-                "Bottom": 150,
-                "Left": 150
-            },
-            "PreviewUrl": "https://s3.amazonaws.com/23prints-page-layouts-dev/LargeImagewithTextTop@3x.png",
-            "IsActive": true,
-            "Placeholders": [
-                {
-                    "Id": "b7234632-fbe7-49ac-998f-e0b4b2709066",
-                    "Frame": {
-                        "Origin": {
-                            "X": 150,
-                            "Y": 550
-                        },
-                        "Size": {
-                            "Width": 1800,
-                            "Height": 1400
-                        }
-                    },
-                    "Kind": 1,
-                    "IsFixed": false,
                     "Index": 0
-                },
-                {
-                    "Id": "379949a2-959e-44e4-a5fa-1614709fb380",
-                    "Frame": {
-                        "Origin": {
-                            "X": 150,
-                            "Y": 150
-                        },
-                        "Size": {
-                            "Width": 1800,
-                            "Height": 350
-                        }
-                    },
-                    "Kind": 2,
-                    "IsFixed": true,
-                    "Index": 1
                 }
             ],
             "ParentId": "9156b564-521f-4d4c-9085-f01755593be1"
