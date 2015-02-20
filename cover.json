@@ -10,7 +10,7 @@
                "Bottom":150,
                "Left":150
            },
-           "PreviewUrl":"",
+           "PreviewUrl":"https://s3.amazonaws.com/23prints-page-layouts-dev/Cover@3x.png",
            "IsActive":true,
            "Placeholders":[
               {
@@ -42,7 +42,7 @@
                "Bottom":150,
                "Left":150
            },
-           "PreviewUrl":"",
+           "PreviewUrl":"https://s3.amazonaws.com/23prints-page-layouts-dev/CoverWithText@3x.png",
            "IsActive":true,
            "Placeholders":[
               {
@@ -76,62 +76,6 @@
                   "Kind":2,
                   "IsFixed":true,
                   "Index":1,
-                  "DefaultText": {
-                      "TextColor": -8355712,
-                      "TextAlignment": 1,
-                      "FontKind": 3
-                  },
-                  "BackgroundColor" : -1,
-                  "BorderWidth" :  5.0,
-                  "BorderColor" :  -16777216
-              }
-           ],
-           "ParentId":"14faf390-7a02-4e07-9fd0-55089abdb9cb"
-       },
-       {
-           "PageLayoutKind":2,
-           "Id":"3cc9a9d6-9d8c-46d3-87da-b4c4918f83b2",
-           "PageSizeKind":1,
-           "Padding":{
-               "Top":150,
-               "Right":150,
-               "Bottom":150,
-               "Left":150
-           },
-           "PreviewUrl":"",
-           "IsActive":true,
-           "Placeholders":[
-              {
-                  "Id":"d5c82a7b-6a73-485f-8cb3-e72f92ee9d62",
-                  "Frame":{
-                      "Origin":{
-                          "X":0,
-                          "Y":0
-                      },
-                      "Size":{
-                          "Width":2100,
-                          "Height":2100
-                      }
-                  },
-                  "Kind":1,
-                  "IsFixed":false,
-                  "Index":0
-              },
-              {
-                  "Id":"f1b4c8c5-7795-4fb9-9b15-9d371042bc2a",
-                  "Frame":{
-                      "Origin":{
-                          "X":942,
-                          "Y":1470
-                      },
-                      "Size":{
-                          "Width":1007,
-                          "Height":480
-                      }
-                  },
-                  "Kind":2,
-                  "IsFixed":true,
-                  "Index": 1,
                   "DefaultText": {
                       "TextColor": -8355712,
                       "TextAlignment": 1,
