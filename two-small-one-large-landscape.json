@@ -1,6 +1,7 @@
 ﻿{
     "PageLayouts": [
        {
+           "Index": 10,
            "Id":"9603a2d7-9ef6-4e86-8875-932afd1577a1",
            "PageLayoutKind":1,
            "PageSizeKind":1,
@@ -65,6 +66,7 @@
            "ParentId":null
        },
        {
+           "Index": 11,
            "Id":"626931a8-c397-4eef-a0fa-21d432cc33b2",
            "PageLayoutKind":1,
            "PageSizeKind":1,
@@ -74,7 +76,7 @@
                "Bottom":150,
                "Left":150
            },
-           "PreviewUrl":"https://s3.amazonaws.com/23prints-page-layouts-dev/TwoSmallOneLong-text-bottom@3x.png",
+           "PreviewUrl":"https://s3.amazonaws.com/23prints-page-layouts-dev/TwoSmallOneLongWithText@3x.png",
            "IsActive":true,
            "Placeholders":[
               {
@@ -139,7 +141,7 @@
                   },
                   "Kind":2,
                   "IsFixed":true,
-                  "Index":0
+                  "Index":3
               }
            ],
            "ParentId":"9603a2d7-9ef6-4e86-8875-932afd1577a1"
